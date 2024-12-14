@@ -16,7 +16,7 @@ a gui fortune cookie app written in java
 ### Notes
 
 The app is comprised of all the files in the data, media, and source directories.
-* The primary app is cookie.java; compile it
+* The primary app is cookie.java; compile it and fortuneCookie.java into bytecode before executing.
 
 I've included the standalone jar file, "Fortune Cookie w/ Source.jar", that can be executed as well.
 

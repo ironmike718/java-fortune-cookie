@@ -1,5 +1,0 @@
-Class-Path: .
-Main-Class: cookie
-Implementation-Title: Fortune Cookie
-Specification-Vendor: Michael Melendez
-Implementation-Version: 1.0
